@@ -6,12 +6,6 @@
 
 // Crea un programa que le diga la suma más alta de regalos que podría repartir teniendo en cuenta el máximo de regalos que puede transportar y el número máximo de ciudades que puede visitar:
 
-const giftsCities = [12, 3, 11, 5, 7]
-const maxGifts = 20
-const maxCities = 3
-
 export function getMaxGifts (giftsCities: number[], maxGifts: number, maxCities: number): number {
   return 0
 }
-
-console.log(getMaxGifts(giftsCities, maxGifts, maxCities))
