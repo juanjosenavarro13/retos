@@ -1,10 +1,8 @@
-import { getGiftsToRefill } from '../src/reto7'
+import { getGiftsToRefill } from '../../src/adventjs/reto7'
 
 const a1 = ['bici', 'coche', 'bici', 'bici']
 const a2 = ['coche', 'bici', 'muñeca', 'coche']
 const a3 = ['bici', 'pc', 'pc']
-
-
 
 describe('test function', () => {
   test('case 1', () => {

@@ -1,4 +1,4 @@
-import { getMaxGifts } from '../src/reto5'
+import { getMaxGifts } from '../../src/adventjs/reto5'
 
 xdescribe('test function', () => {
   test('case 1', () => {
